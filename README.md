@@ -22,7 +22,7 @@ Run the script:
 python3 whatsapp_url_extractor
 ```
 
-##TODO:
+## TODO:
 
 - Add Visualizations and check URL's shared per person
 - Automatically scrape the WhatsApp Chat Files using Selenium or another way to get files
