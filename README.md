@@ -1,4 +1,4 @@
-# WhatsApp-Hackathon
+# WhatsApp-Chat URL Extractor
 Simple Script to Read WhatsApp Chat History and extract URL's which have been shared. Project came about from  chat with fellow Developers in WhatsApp group.
 
 ## How It Works
